@@ -1,0 +1,2 @@
+(hosted)backend - https://expensetracker-zste.onrender.com
+(hosted)frontend - https://trackexpensephi.vercel.app
